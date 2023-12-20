@@ -1,7 +1,8 @@
 #Rstudio->git
-####staged->commit->push
+####scriptをsave->staged->commit->push
 yssa
 
 
 #git->Rstudio
-####pull->staged->commit->push
+####githubで変更->pull
+ddd
